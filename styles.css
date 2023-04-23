@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.bg-gradient {
+    background: linear-gradient(135deg, #9d50bb 40%, #5ec5a5 100%);
+}
+
+.name-section {
+    background: linear-gradient(135deg, #9e0cd8 40%, #00d5d5 100%);
+    color: #ffffff;
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-section,
+.skills-section {
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-section {
+    background: linear-gradient(135deg, #e93fcd 20%, #ba55d3 60%, #673ab7 100%);
+    color: #ffffff;
+}
+
+
+.skills-section {
+    background: linear-gradient(135deg, #9e0cd8  40%, #00d5d5 100%);
+    color: #ffffff;
+}
+
+/* Utility classes */
+.mb-4 {
+    margin-bottom: 1.5rem;
+}
