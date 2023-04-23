@@ -1,2 +1,2 @@
-# steffisportfolio.github.io
+# steffisportfolio
 Portfolio Website with Basic Frontend Design
